@@ -6,6 +6,9 @@ namespace Examples
     {
         static void Main(string[] args)
         {
+            // miniscript example
+            miniscript_example.Main();
+
             // [core] module examples
             core_2d_camera_platformer.Main();
             core_2d_camera.Main();
